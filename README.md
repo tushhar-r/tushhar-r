@@ -12,13 +12,14 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding GIF" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
 
 <div align="left">
 
 🚀 **Specialized in** React.js, Next.js, TypeScript, and MERN stack
 
 💡 **Passionate about** creating high-performance applications that enhance user experience
+
 
 </div>
 
@@ -49,10 +50,9 @@
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Tools & Databases
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 </div>
 
 ---
